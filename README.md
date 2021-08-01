@@ -29,4 +29,4 @@
 4. Almas Ibrahim        (Undergraduate Student, Software Engineering, UIT)
 5. Muhammad Shahzaib    (Undergraduate Student, Software Engineering, UIT)
 6. Hadir Khan           (Graduate Research Associate, Microelectronics Research lab)
-7. Farhan Ahmed Karim   (Software Team Leader, Microelectronics Research lab)
+7. Farhan Ahmed Karim   (Software Team Lead, Microelectronics Research lab)
