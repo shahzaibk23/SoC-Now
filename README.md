@@ -1,4 +1,13 @@
-# SoC Now
+```
+ ______     ______     ______     __   __     ______     __     __    
+/\  ___\   /\  __ \   /\  ___\   /\ "-.\ \   /\  __ \   /\ \  _ \ \   
+\ \___  \  \ \ \/\ \  \ \ \____  \ \ \-.  \  \ \ \/\ \  \ \ \/ ".\ \  
+ \/\_____\  \ \_____\  \ \_____\  \ \_\\"\_\  \ \_____\  \ \__/".~\_\ 
+  \/_____/   \/_____/   \/_____/   \/_/ \/_/   \/_____/   \/_/   \/_/ 
+                                                                      
+```
+
+<!-- # SoC Now -->
 - This Mini SoC Generator will generate an System on Chip (SoC)
 - It will be based on RISC-V ISA (IMFC extensions) (32-bit)
 - It will take specifications of the SoC as parameters
