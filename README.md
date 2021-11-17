@@ -27,7 +27,7 @@
     - Tilelink Cached (TL-C)
 
 ## Block Diagram
-<img src="https://github.com/merledu/SoC-Now/blob/main/blockDiagram.png" width="100%">
+<img src="https://github.com/shahzaibk23/SoC-Now/blob/main/block.jpg" width="100%">
 
 ## Team Members
 1. Shahzaib Kashif      (Undergraduate Student, Software Engineering, UIT)
