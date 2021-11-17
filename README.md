@@ -1,4 +1,4 @@
-<img src="https://github.com/shahzaibk23/SoC-Now/blob/main/logo.png" width=40% />
+<img src="https://github.com/shahzaibk23/SoC-Now/blob/main/logo.png"  />
 
 
 <!-- # SoC Now -->
