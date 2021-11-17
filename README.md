@@ -1,4 +1,4 @@
-<img src="https://github.com/shahzaibk23/SoC-Now/blob/main/logo.png" width=40% />
+<img src="https://github.com/shahzaibk23/SoC-Now/blob/main/logo.png"  />
 
 
 <!-- # SoC Now -->
@@ -19,8 +19,12 @@
     - UART
     - SPI
     - SPI-Flash
+    - I2C
+    - TIMER
 - There will be parameters to select Bus Architecture which will be the communication medium within the SoC. The choices for Bus Architecture are:
+    - Wishbone  
     - Tilelink Uncached (TL-UL)
+    - Tilelink Cached (TL-C)
 
 ## Block Diagram
 <img src="https://github.com/merledu/SoC-Now/blob/main/blockDiagram.png" width="100%">
